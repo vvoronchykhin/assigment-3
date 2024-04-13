@@ -1,0 +1,19 @@
+<grooming>
+    <h2>Grooming</h2>
+    <div class="grooming-info">
+        <img src="https://bpanimalhospital.com/wp-content/uploads/shutterstock_1547371985.jpg" alt="Grooming Image" />
+        <div class="grooming-details">
+            <h3>Professional Grooming Services</h3>
+            <p>Our grooming salon offers a range of services to keep your pet looking and feeling their best. From baths and haircuts to nail trimming and ear cleaning, our trained groomers provide top-quality care for your furry friend.</p>
+            <ul>
+                <li>Bathing</li>
+                <li>Haircutting and styling</li>
+                <li>Nail trimming</li>
+                <li>Ear cleaning</li>
+                <li>Teeth brushing</li>
+            </ul>
+            <p>Whether your pet needs a simple wash and trim or a full spa day, we've got you covered. Our team is dedicated to ensuring a comfortable and stress-free grooming experience for your beloved pet.</p>
+            <p>Contact us today to schedule an appointment!</p>
+        </div>
+    </div>
+</grooming>
